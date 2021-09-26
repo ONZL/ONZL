@@ -40,7 +40,7 @@
 
 ---
 
-### 📺 Latest YouTube Videos
+### 📺 Tutorial YouTube Videos I Recommend
 
 <!-- YOUTUBE:START -->
 - [SQL vs NoSQL](https://www.youtube.com/watch?v=sG28-D5o9tg)

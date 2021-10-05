@@ -3,15 +3,15 @@
 
 ## I'm a Self- Learning Web Developer
 
-- 🌱 I’m currently learning php and backend modules 🤣
-- 👯 I’m 
-- 🥅 Current Goals: To be great in front-end skills.
+- 🌱 I’m a passionate to explore possibilities
+- 👯 I’m currently learning php and backend modules 🤣
+- 🥅 Current Goals: To be great in front-end skills, especially in React library
 - ⚡ Fun fact: Loves coffee and ice cream
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][youtube]
 
 
 <br />
@@ -56,7 +56,7 @@
   <img align="left" alt="ONZL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ONZL&show_icons=true&hide_border=true" />
 
 </details>
-
+[linkedin]:
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr

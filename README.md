@@ -40,7 +40,7 @@
 
 ---
 
-### 📕 Courses That I Recommend
+### 📕 Courses That I Recommend (Not Free 💰)
 
 
 - [Web Developer Bootcamp 2021 | Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/)

@@ -10,8 +10,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ONZL | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />] [facebook]
-[<img align="left" alt="ONZL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />] [linkedin]
+[<img align="left" alt="ONZL | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="ONZL | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -56,9 +56,9 @@
 
 </details>
 
-[facebook]: https://www.facebook.com/zeliang96
+[facebook]: https://facebook.com/zeliang96
 [instagram]: 
-[linkedin]:https://www.linkedin.com/in/ong-ze-liang-323071140
+[linkedin]:https://linkedin.com/in/ong-ze-liang-323071140
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4

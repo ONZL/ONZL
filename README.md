@@ -31,8 +31,12 @@
 ### 📺 Tutorial YouTube Videos I Recommend
 
 
-- [Google Like a Pro 💪, Find a Mentor 🦉, Learn Gatsby 3.0 🎓 // STACKr News Weekly](https://www.youtube.com/watch?v=nLSvAHDII_A)
-
+- [How To Set Up Visual Code for Beginner](https://www.youtube.com/watch?v=4NfFFsQC77M&list=PLkwxH9e_vrAJshxiMo6gIavTr5kYsjPs7)
+- [Where To Start As Web Developer For Beginner](https://www.youtube.com/watch?v=4NfFFsQC77M&list=PLkwxH9e_vrAJshxiMo6gIavTr5kYsjPs7)
+- [HTML Crash Course for Beginner](https://www.youtube.com/watch?v=XiQ9rjaa2Ow)
+- [CSS Crash Course for Beginner](https://www.youtube.com/watch?v=Tfjd5yzCaxk)
+- [Web Developer Roadmap 2021](https://www.youtube.com/watch?v=7k7ETzqOxn8)
+- [React Crash Course for Beginner](https://www.youtube.com/watch?v=hQAHSlTtcmY)
 
 ---
 
@@ -66,6 +70,4 @@
 [css]: https://www.youtube.com/watch?v=1PnVor36_40
 [js]: https://www.youtube.com/watch?v=upDLs1sn7g4
 [react]: https://github.com/facebook/react
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+

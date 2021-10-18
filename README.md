@@ -18,7 +18,7 @@
 
 ### Languages and Tools:
 <!-- copy and paste -->
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] [webdevplaylist]
 
 
 <br />
@@ -55,8 +55,9 @@
   <img align="left" alt="ONZL's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ONZL&show_icons=true&hide_border=true" />
 
 </details>
-[facebook]:https://www.facebook.com/zeliang96/
-[instagram]: https://instagram.com/codeSTACKr
+
+[facebook]: https://www.facebook.com/zeliang96/
+[instagram]: 
 [linkedin]:https://www.linkedin.com/in/ong-ze-liang-323071140/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B

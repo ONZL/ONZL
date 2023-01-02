@@ -4,8 +4,8 @@
 ## I'm a Self- Learning Web Developer
 
 - 🌱 I’m a passionate to explore new possibilities
-- 👯 I’m currently learning php and backend modules 🤣
-- 🥅 Current Goals: To be great in front-end skills, especially in React library
+- 👯 Full stack developer
+- 🥅 Current Goals: Research complex queries, in depth in databases, learn vue framework
 - ⚡ Fun fact: Loves coffee and ice cream
 
 ### Connect with me:
@@ -19,10 +19,13 @@
 ### Languages and Tools:
 <!-- copy and paste -->
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
+[<img align="left" alt="js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][js]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />][php]
+[<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][laravel]
+[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 
 <br />
 
@@ -37,6 +40,9 @@
 - [CSS Crash Course for Beginner](https://www.youtube.com/watch?v=Tfjd5yzCaxk)
 - [Web Developer Roadmap 2021](https://www.youtube.com/watch?v=7k7ETzqOxn8)
 - [React Crash Course for Beginner](https://www.youtube.com/watch?v=hQAHSlTtcmY)
+- [PHP For Beginners | 3+ Hour Crash Course](https://www.youtube.com/watch?v=BUCiSSyIGGU&t=1s)
+- [Laravel 6 Beginner](https://www.youtube.com/watch?v=eD4yMI-IR8g&list=PLpzy7FIRqpGC8Jk6gyWdSVdxCVXZAsenQ)
+- [MySQL - The Basics // Learn SQL in 23 Easy Steps](https://www.youtube.com/watch?v=Cz3WcZLRaWc&t=295s)
 
 ---
 
@@ -70,4 +76,7 @@
 [css]: https://www.youtube.com/watch?v=1PnVor36_40
 [js]: https://www.youtube.com/watch?v=upDLs1sn7g4
 [react]: https://github.com/facebook/react
+[php]: https://www.php.net
+[laravel]: https://github.com/laravel/laravel
+[sql]: https://github.com/topics/mysql
 
